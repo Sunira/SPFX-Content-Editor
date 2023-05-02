@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "mods Content Editor Webpart",
+    "id": "992b94ec-454a-4f5d-9adf-86f7bd030d71",
+    "version": "1.0.0.1",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "The mods content editor allows you to edit rich text in a mods-styled container."
+      },
+      "longDescription": {
+        "default": "The mods content editor allows you to edit rich text in a mods-styled container."
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "mods Content Editor Webpart",
+        "description": "The mods content editor allows you to edit rich text in a mods-styled container.",
+        "id": "9560ea8b-78c2-4e69-8b69-f4cbd46038ff",
+        "version": "1.0.0.1"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-content-editor-part.sppkg"
+  }
+}
